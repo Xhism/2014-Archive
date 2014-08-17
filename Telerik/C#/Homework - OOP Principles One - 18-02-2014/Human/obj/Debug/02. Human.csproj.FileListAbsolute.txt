@@ -1,0 +1,6 @@
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\Human\bin\Debug\02.Human-Project.exe.config
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\Human\obj\Debug\02. Human.csprojResolveAssemblyReference.cache
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\Human\bin\Debug\02.Human-Project.exe
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\Human\bin\Debug\02.Human-Project.pdb
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\Human\obj\Debug\02.Human-Project.exe
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\Human\obj\Debug\02.Human-Project.pdb

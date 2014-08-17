@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<style>
+    table {
+        color: white;
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    #navigation {
+        position: relative;
+        top: -12px;
+    }
+
+        #navigation td {
+            padding: 0px 10px 0px 10px;
+        }
+
+    .searchInput {
+        padding: 0px 0px 0px 5px;
+        border-radius: 5px 0px 0px 5px;
+        border: none;
+        height: 20px;
+        width: 170px;
+        color: #234465;
+    }
+
+    .searchButton {
+        position:relative;
+        left: -5px;
+        width: 20px;
+        height: 20px;
+        vertical-align: top;
+        background: white;
+        border: 0;
+        border-left: 1px solid #d5d5d5;
+        border-collapse: collapse;
+        margin: 0;
+        background-image: url(zoom.png);
+        background-position: 2px;
+        background-repeat: no-repeat;
+        border-radius: 0px 5px 5px 0px;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+</style>
+<body>
+    <table bgcolor="#234465" style="padding: 5px 0px 0px 0px;">
+        <tr>
+            <td rowspan="2"><img src="logo.png"</td>
+            <td style="float: right;">
+                <table>
+                    <tr>
+                        <td>
+                            <table width="40px">
+                                <tr>
+                                    <td>0</td>
+                                    <td><img src="bell.png" /></td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>USER<img src="arrow.png" /></td>
+                        <td>
+                            <input type="text" maxlength="100" placeholder="Search..." class="searchInput">
+                            <button type="submit" class="searchButton"></button>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table id="navigation">
+                    <tr>
+                        <td><a href="https://softuni.bg/news">NEWS</a></td>
+                        <td><a href="https://softuni.bg/about">ABOUT THE UNIVERSITY<img src="arrow.png" /></a></td>
+                        <td><a href="https://softuni.bg/trainings/courses/list">TRAINING COURSES<img src="arrow.png" /></a></td>
+                        <td><a href="https://softuni.bg/companies">FOR COMPANIES</a></td>
+                        <td><a href="https://softuni.bg/forum">FORUM</a></td>
+                        <td><a href="https://softuni.bg/contacts">CONTACTS</a></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

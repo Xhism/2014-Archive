@@ -1,0 +1,6 @@
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\LongestArea\bin\Debug\LongestArea.exe.config
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\LongestArea\bin\Debug\LongestArea.exe
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\LongestArea\bin\Debug\LongestArea.pdb
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\LongestArea\obj\Debug\06. LongestArea.csprojResolveAssemblyReference.cache
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\LongestArea\obj\Debug\LongestArea.exe
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\LongestArea\obj\Debug\LongestArea.pdb

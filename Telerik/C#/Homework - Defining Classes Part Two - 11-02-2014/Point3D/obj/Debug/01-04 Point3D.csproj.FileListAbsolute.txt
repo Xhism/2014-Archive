@@ -1,0 +1,5 @@
+D:\C#\Projects\Defining Classes Part Two\Point3D\bin\Debug\Point3D.exe.config
+D:\C#\Projects\Defining Classes Part Two\Point3D\bin\Debug\Point3D.exe
+D:\C#\Projects\Defining Classes Part Two\Point3D\bin\Debug\Point3D.pdb
+D:\C#\Projects\Defining Classes Part Two\Point3D\obj\Debug\Point3D.exe
+D:\C#\Projects\Defining Classes Part Two\Point3D\obj\Debug\Point3D.pdb

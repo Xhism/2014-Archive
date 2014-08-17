@@ -1,0 +1,6 @@
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\01.School-Project\bin\Debug\01.School-Project.exe.config
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\01.School-Project\bin\Debug\01.School-Project.exe
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\01.School-Project\bin\Debug\01.School-Project.pdb
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\01.School-Project\obj\Debug\01.School-Project.csprojResolveAssemblyReference.cache
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\01.School-Project\obj\Debug\01.School-Project.exe
+D:\C#\Projects\Homework - OOP Principles One - 18-02-2014\01.School-Project\obj\Debug\01.School-Project.pdb

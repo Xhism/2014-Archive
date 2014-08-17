@@ -1,0 +1,41 @@
+import java.util.Scanner;
+
+
+public class Ex04_LongestIncreasingSequence {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("Input a line of numbers:");
+		String str = input.nextLine();
+		String[] arr = str.split(" ");
+		int[] numbers = new int[arr.length];
+		for (int i = 0; i < numbers.length; i++) {
+			numbers[i] = Integer.parseInt(arr[i]);
+		}
+		int currentLength = 1;
+		int bestLength = 1;
+		int latestPosition = 0;
+		
+		System.out.print(numbers[0]);
+		for (int i = 1; i < arr.length; i++) {
+			if (numbers[i] > numbers[i - 1]) {
+				currentLength++;
+				System.out.print(" " + numbers[i]);
+			} else {
+				currentLength = 1;
+				System.out.println();
+				System.out.print(numbers[i]);
+			}
+			if (currentLength > bestLength) {
+				bestLength = currentLength;
+				latestPosition = i;
+			}
+		}
+		System.out.println();
+		
+		System.out.print("Longest: ");
+		for (int i = 0; i < bestLength - 1; i++) {
+			System.out.print(numbers[latestPosition - bestLength + 1 + i] + " ");
+		}
+		System.out.println();
+	}
+}

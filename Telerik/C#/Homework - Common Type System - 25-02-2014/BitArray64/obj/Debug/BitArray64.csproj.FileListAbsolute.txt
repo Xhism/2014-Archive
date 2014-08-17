@@ -1,0 +1,5 @@
+D:\C#\Projects\Homework - Common Type System - 25-02-2014\BitArray64\bin\Debug\BitArray64.exe.config
+D:\C#\Projects\Homework - Common Type System - 25-02-2014\BitArray64\bin\Debug\BitArray64.exe
+D:\C#\Projects\Homework - Common Type System - 25-02-2014\BitArray64\bin\Debug\BitArray64.pdb
+D:\C#\Projects\Homework - Common Type System - 25-02-2014\BitArray64\obj\Debug\BitArray64.exe
+D:\C#\Projects\Homework - Common Type System - 25-02-2014\BitArray64\obj\Debug\BitArray64.pdb

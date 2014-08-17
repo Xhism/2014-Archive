@@ -1,0 +1,2 @@
+D:\C#\Projects\Homework - Extension Methods - 13-02-2014\Substring\bin\Debug\Substring.exe.config
+D:\C#\Telerik\Homework - Extension Methods - 13-02-2014\Substring\bin\Debug\Substring.exe.config

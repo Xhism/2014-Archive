@@ -1,0 +1,6 @@
+D:\C#\Projects\Homework - Extension Methods - 13-02-2014\StudentsByGroup\bin\Debug\StudentsByGroup.exe.config
+D:\C#\Projects\Homework - Extension Methods - 13-02-2014\StudentsByGroup\bin\Debug\StudentsByGroup.exe
+D:\C#\Projects\Homework - Extension Methods - 13-02-2014\StudentsByGroup\bin\Debug\StudentsByGroup.pdb
+D:\C#\Projects\Homework - Extension Methods - 13-02-2014\StudentsByGroup\obj\Debug\18-19. StudentsByGroup.csprojResolveAssemblyReference.cache
+D:\C#\Projects\Homework - Extension Methods - 13-02-2014\StudentsByGroup\obj\Debug\StudentsByGroup.exe
+D:\C#\Projects\Homework - Extension Methods - 13-02-2014\StudentsByGroup\obj\Debug\StudentsByGroup.pdb

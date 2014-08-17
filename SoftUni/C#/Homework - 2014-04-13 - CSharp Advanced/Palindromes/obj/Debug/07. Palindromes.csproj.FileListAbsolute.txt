@@ -1,0 +1,5 @@
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\Palindromes\bin\Debug\Palindromes.exe.config
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\Palindromes\bin\Debug\Palindromes.exe
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\Palindromes\bin\Debug\Palindromes.pdb
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\Palindromes\obj\Debug\Palindromes.exe
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\Palindromes\obj\Debug\Palindromes.pdb

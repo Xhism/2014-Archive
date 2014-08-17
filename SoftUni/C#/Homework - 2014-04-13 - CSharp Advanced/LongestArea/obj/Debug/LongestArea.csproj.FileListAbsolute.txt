@@ -1,0 +1,1 @@
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\LongestArea\bin\Debug\LongestArea.exe.config

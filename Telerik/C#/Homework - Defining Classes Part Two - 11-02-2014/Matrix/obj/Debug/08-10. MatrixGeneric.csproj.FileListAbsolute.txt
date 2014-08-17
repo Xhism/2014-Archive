@@ -1,0 +1,6 @@
+D:\C#\Projects\Defining Classes Part Two\Matrix\bin\Debug\Matrix.exe.config
+D:\C#\Projects\Defining Classes Part Two\Matrix\bin\Debug\Matrix.exe
+D:\C#\Projects\Defining Classes Part Two\Matrix\bin\Debug\Matrix.pdb
+D:\C#\Projects\Defining Classes Part Two\Matrix\obj\Debug\08-10. MatrixGeneric.csprojResolveAssemblyReference.cache
+D:\C#\Projects\Defining Classes Part Two\Matrix\obj\Debug\Matrix.exe
+D:\C#\Projects\Defining Classes Part Two\Matrix\obj\Debug\Matrix.pdb

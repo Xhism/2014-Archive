@@ -1,0 +1,5 @@
+D:\C#\Projects\Homework - Common Type System - 25-02-2014\Person\bin\Debug\Person.exe.config
+D:\C#\Projects\Homework - Common Type System - 25-02-2014\Person\bin\Debug\Person.exe
+D:\C#\Projects\Homework - Common Type System - 25-02-2014\Person\bin\Debug\Person.pdb
+D:\C#\Projects\Homework - Common Type System - 25-02-2014\Person\obj\Debug\Person.exe
+D:\C#\Projects\Homework - Common Type System - 25-02-2014\Person\obj\Debug\Person.pdb

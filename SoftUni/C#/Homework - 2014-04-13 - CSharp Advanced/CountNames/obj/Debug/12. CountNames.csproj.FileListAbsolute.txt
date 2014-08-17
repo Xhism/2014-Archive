@@ -1,0 +1,6 @@
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\CountNames\bin\Debug\CountNames.exe.config
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\CountNames\bin\Debug\CountNames.exe
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\CountNames\bin\Debug\CountNames.pdb
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\CountNames\obj\Debug\12. CountNames.csprojResolveAssemblyReference.cache
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\CountNames\obj\Debug\CountNames.exe
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\CountNames\obj\Debug\CountNames.pdb

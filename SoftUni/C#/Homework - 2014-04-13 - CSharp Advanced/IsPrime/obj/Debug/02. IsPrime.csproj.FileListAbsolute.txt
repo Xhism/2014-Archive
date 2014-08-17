@@ -1,0 +1,5 @@
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\IsPrime\bin\Debug\IsPrime.exe.config
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\IsPrime\bin\Debug\IsPrime.exe
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\IsPrime\bin\Debug\IsPrime.pdb
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\IsPrime\obj\Debug\IsPrime.exe
+D:\C#\SoftUni\Homework - 2014-04-13 - CSharp Advanced\IsPrime\obj\Debug\IsPrime.pdb

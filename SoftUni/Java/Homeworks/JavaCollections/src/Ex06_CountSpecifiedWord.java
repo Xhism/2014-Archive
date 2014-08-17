@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Ex06_CountSpecifiedWord {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("Input a line of words:");
+		String sentence = input.nextLine().toLowerCase();
+		System.out.print("Input the word that you want counted: ");
+		String word = input.nextLine().toLowerCase();
+		String[] str = sentence.split("\\W+");
+		int counter = 0;
+		
+		for (int i = 0; i < str.length; i++) {
+			if (word.equals(str[i])) {
+				counter++;	
+			}
+		}
+		System.out.println(counter);
+	}
+}

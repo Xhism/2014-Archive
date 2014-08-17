@@ -1,0 +1,6 @@
+D:\C#\Projects\Homework - Defining Classes 1 - 06.02.2014\Mobile\bin\Debug\Mobile.exe.config
+D:\C#\Projects\Homework - Defining Classes 1 - 06.02.2014\Mobile\obj\Debug\01-12. Mobile.csprojResolveAssemblyReference.cache
+D:\C#\Projects\Homework - Defining Classes 1 - 06.02.2014\Mobile\bin\Debug\Mobile.exe
+D:\C#\Projects\Homework - Defining Classes 1 - 06.02.2014\Mobile\bin\Debug\Mobile.pdb
+D:\C#\Projects\Homework - Defining Classes 1 - 06.02.2014\Mobile\obj\Debug\Mobile.exe
+D:\C#\Projects\Homework - Defining Classes 1 - 06.02.2014\Mobile\obj\Debug\Mobile.pdb
