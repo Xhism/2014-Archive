@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b373bc2-d5ff-4914-881e-a229e9e0854f" name="Default" comment="" />
-    <ignored path="PHP Flow Control.iws" />
+    <list default="true" id="62bee0e1-2072-44e6-8137-18ea5f0e375d" name="Default" comment="" />
+    <ignored path="Homework - PHP Arrays Strings Objects.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,64 +19,59 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="PHP Flow Control" />
+    <favorites_list name="Homework - PHP Arrays Strings Objects" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01-SquareRootSum.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/01-SquareRootSum.php">
+      <file leaf-file-name="01-WordMapping.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-WordMapping.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="17" selection-start="151" selection-end="151" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="578">
+            <state line="12" column="20" selection-start="215" selection-end="215" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02-RichPeopleProblems.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/02-RichPeopleProblems.php">
+      <file leaf-file-name="02-ColoringTexts.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-ColoringTexts.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="75" selection-start="171" selection-end="171" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="986">
-              <folding>
-                <marker date="1408900991415" expanded="true" signature="515:1145" placeholder="..." />
-                <marker date="1408900991415" expanded="true" signature="522:704" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03-AnnualExpenses.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/03-AnnualExpenses.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="39" selection-start="1303" selection-end="1303" vertical-scroll-proportion="-24.192308" vertical-offset="0" max-vertical-offset="1428">
-              <folding>
-                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04-FindPrimesInRange.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/04-FindPrimesInRange.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="26" selection-start="563" selection-end="563" vertical-scroll-proportion="-9.153846" vertical-offset="102" max-vertical-offset="1105">
+            <state line="32" column="7" selection-start="657" selection-end="657" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="646">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05-SumOfDigits.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/05-SumOfDigits.php">
+      <file leaf-file-name="03-SidebarBuilder.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-SidebarBuilder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="56" selection-start="243" selection-end="243" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="918">
+            <state line="7" column="36" selection-start="156" selection-end="156" vertical-scroll-proportion="-2.4230769" vertical-offset="56" max-vertical-offset="1122">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06-ModifyString.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/06-ModifyString.php">
+      <file leaf-file-name="04-TextFilter.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-TextFilter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="29" selection-start="720" selection-end="720" vertical-scroll-proportion="0.43638393" vertical-offset="0" max-vertical-offset="1190">
+            <state line="23" column="7" selection-start="554" selection-end="554" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="493">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05-SentenceExtractor.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-SentenceExtractor.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="2" selection-start="660" selection-end="660" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06-URLReplacer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06-URLReplacer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="6" selection-start="22" selection-end="22" vertical-scroll-proportion="0.018973215" vertical-offset="0" max-vertical-offset="896">
               <folding />
             </state>
           </provider>
@@ -84,20 +79,15 @@
       </file>
     </leaf>
   </component>
-  <component name="FindManager">
-    <FindUsagesManager>
-      <setting name="OPEN_NEW_TAB" value="false" />
-    </FindUsagesManager>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/01-SquareRootSum.php" />
-        <option value="$PROJECT_DIR$/02-RichPeopleProblems.php" />
-        <option value="$PROJECT_DIR$/03-ShowAnnualExpenses.php" />
-        <option value="$PROJECT_DIR$/03-AnnualExpenses.php" />
-        <option value="$PROJECT_DIR$/05-SumOfDigits.php" />
-        <option value="$PROJECT_DIR$/06-ModifyString.php" />
+        <option value="$PROJECT_DIR$/01-WordMapping.php" />
+        <option value="$PROJECT_DIR$/02-ColoringTexts.php" />
+        <option value="$PROJECT_DIR$/03-SidebarBuilder.php" />
+        <option value="$PROJECT_DIR$/04-TextFilter.php" />
+        <option value="$PROJECT_DIR$/05-SentenceExtractor.php" />
+        <option value="$PROJECT_DIR$/06-URLReplacer.php" />
       </list>
     </option>
   </component>
@@ -139,18 +129,8 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PHP Flow Control" />
+              <option name="myItemId" value="Homework - PHP Arrays Strings Objects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP Flow Control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homework - PHP Flow Control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -162,27 +142,14 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8b373bc2-d5ff-4914-881e-a229e9e0854f" name="Default" comment="" />
-      <created>1408900692835</created>
-      <updated>1408900692835</updated>
+      <changelist id="62bee0e1-2072-44e6-8137-18ea5f0e375d" name="Default" comment="" />
+      <created>1409167125503</created>
+      <updated>1409167125503</updated>
     </task>
     <servers />
   </component>
@@ -228,49 +195,44 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/01-SquareRootSum.php">
+    <entry file="file://$PROJECT_DIR$/01-WordMapping.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="151" selection-end="151" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="578">
+        <state line="12" column="20" selection-start="215" selection-end="215" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/02-RichPeopleProblems.php">
+    <entry file="file://$PROJECT_DIR$/02-ColoringTexts.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="75" selection-start="171" selection-end="171" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="986">
-          <folding>
-            <marker date="1408900991415" expanded="true" signature="515:1145" placeholder="..." />
-            <marker date="1408900991415" expanded="true" signature="522:704" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/04-FindPrimesInRange.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="26" selection-start="563" selection-end="563" vertical-scroll-proportion="-9.153846" vertical-offset="102" max-vertical-offset="1105">
+        <state line="32" column="7" selection-start="657" selection-end="657" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="646">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/03-AnnualExpenses.php">
+    <entry file="file://$PROJECT_DIR$/03-SidebarBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="39" selection-start="1303" selection-end="1303" vertical-scroll-proportion="-24.192308" vertical-offset="0" max-vertical-offset="1428">
-          <folding>
-            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/05-SumOfDigits.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="56" selection-start="243" selection-end="243" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="918">
+        <state line="7" column="36" selection-start="156" selection-end="156" vertical-scroll-proportion="-2.4230769" vertical-offset="56" max-vertical-offset="1122">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Homework - PHP Flow Control/06-ModifyString.php">
+    <entry file="file://$PROJECT_DIR$/04-TextFilter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="29" selection-start="720" selection-end="720" vertical-scroll-proportion="0.43638393" vertical-offset="0" max-vertical-offset="1190">
+        <state line="23" column="7" selection-start="554" selection-end="554" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-SentenceExtractor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="2" selection-start="660" selection-end="660" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-URLReplacer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="6" selection-start="22" selection-end="22" vertical-scroll-proportion="0.018973215" vertical-offset="0" max-vertical-offset="896">
           <folding />
         </state>
       </provider>
